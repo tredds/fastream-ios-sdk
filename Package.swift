@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "fasteam-ios",
+    name: "fastream-ios",
     platforms: [
         .iOS(.v12),
         .macOS(.v10_14)
